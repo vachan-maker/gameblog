@@ -1,2 +1,3 @@
 theme = 'blits'
 title = 'Flash Game Blog'
+baseURL = "https://gameblog.pages.dev"
