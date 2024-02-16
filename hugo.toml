@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://flashgamesblog.pages.dev'
 languageCode = 'en-us'
 title = 'Flash Game Blog'
 theme = 'blist'
