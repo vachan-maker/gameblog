@@ -1,5 +1,5 @@
 +++
-title = "Stickman game"
+title = "Anger of stick 5"
 description = "A stickman game by COWON and BUTTON E&M"
 date = 2024-02-16
 thumbnail = "/img/stickmanimg.jpeg"
@@ -24,14 +24,14 @@ The game has 4  various modes to play such as main mode,zombie mode,jump mode,de
 - The second mode is “ZOMBIE” which also  have levels as the first mode. This level is similar to first level but have some difference mainly in difficulty  against  fighting enemies as most of them are zombies.
 - The third stage is “JUMP”. This level is totally different from other levels . In this level you need to jump from one platform to other and you need to survive from other enemies. 
 - The fourth mode is  “DEFENSE”  which dose not have any levels. This mode is also  different from other modes. In this mode you need to kill  numerous zombies with use of weapons. This mode provides  different environment to play the mode.
-
+{{<figure src = "game1.jpeg" caption = "Look at the graphics!">}}
 ## Design and Graphics
 The game has a descent art style and character design. The animations are smooth and compact as per the game size . Various levels shows variety of settings and landscape. Even though it is not that appealing for gamers and some may feel disturbance to the eyes for its saturated color selection. As per our opinion the design and graphics of the game may have a rating of 3.8/5.
 ## Features
 This game has a lots of features which makes it one of the best stickman games.Though this game is more about action , the game includes multiple fighting styles with a decent sound for each fighting styles. There are a variety of weapons which include short range and long range weapons.
 
 Moreover the game has attention to details for some extend. The game has  given some justification for all of their characters , fighting styles weapons ,...etc  at its maximum level.  Not only the game can be played in offline mode , there will be no disturbance due to ads rather than playing in online mode or with data connection. The game requires comparatively less storage for this big bound of action adventure. We give a total rating 4/5 for the features provided within the game.
-
+{{<figure src = "gameplay.jpeg" caption = "Look at the graphics!">}}
 ## Gameplay
 The “Anger of Stick” has an awesome game play for the spec of the game. The game provides a descent  controls  and a smooth movements of characters at some extend. However due to various fighting techniques and controls , the user may feels confusions while playing the at  a beginning stage.  Among the given fighting  skills  there are lot of sub fighting  skills  provided in the game which can be enabled by change other controls along with the various fighting skills.
 
