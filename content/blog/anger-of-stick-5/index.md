@@ -3,6 +3,7 @@ title = "Anger of stick 5"
 description = "A stickman game by COWON and BUTTON E&M"
 date = 2024-02-16
 thumbnail = "/img/stickmanimg.jpeg"
+tags = ["stickman", "mobile"]
 +++
 
 ## Introduction
