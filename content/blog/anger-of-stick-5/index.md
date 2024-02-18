@@ -38,7 +38,7 @@ The “Anger of Stick” has an awesome game play for the spec of the game. The 
 The gamer can only focus on 2 or 3 fighting skills  and their sub skills rather than using all the fighting skills  in the game.
 
 Even though the controls and movements are smooth to some extend they not fully satisfying compared to other games at this spec. The total rating for this game play is  3.7/5.
-
+{{< youtube id="idHWU5L9wwo" autoplay="true" >}}
 ## Pros
 - Have different modes to play.
 - Have different controls, movements and Fighting skills
