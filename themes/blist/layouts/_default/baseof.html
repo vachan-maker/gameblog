@@ -2,6 +2,8 @@
 <html lang="{{ .Lang }}" itemscope itemtype="http://schema.org/WebPage">
   {{- partial "head.html" . -}}
   <body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen">
+  <script data-goatcounter="https://flashgamesblog.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
     {{- partial "header.html" . -}}
     <main class="flex-1">
     {{- block "main" . }}{{- end }}
