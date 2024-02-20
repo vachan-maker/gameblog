@@ -1,4 +1,4 @@
-baseURL = 'https://flashgamesblog.pages.dev'
+baseURL = 'https://hypi.pages.dev/'
 languageCode = 'en'
 title = 'Have You Played It?'
 theme = 'blist'
