@@ -1,11 +1,12 @@
 baseURL = 'https://flashgamesblog.pages.dev'
 languageCode = 'en'
-title = 'Flash Game Blog'
+title = 'Have You Played It?'
 theme = 'blist'
 [params]
-	introTitle = "Flash Game Blog"
+	introTitle = "Have You Played It?"
 	introPhoto = "/game2.webp"
 	introSubTitle = "Your Ultimate Hub for Reviews, Tips, and More!"
+	logo = "/img/logo.png"
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
@@ -27,7 +28,7 @@ theme = 'blist'
   ]
 
   # Custom copyright - optional
-  favicon = "/favicon.svg"
+  favicon = "/img/logo.jpeg"
 
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
