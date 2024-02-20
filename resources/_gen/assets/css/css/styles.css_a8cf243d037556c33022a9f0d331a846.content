@@ -1121,11 +1121,11 @@ a.page-link {
 .hidden {
   display: none;
 }
+.h-20 {
+  height: 5rem;
+}
 .h-52 {
   height: 13rem;
-}
-.h-8 {
-  height: 2rem;
 }
 .h-full {
   height: 100%;
@@ -1147,9 +1147,6 @@ a.page-link {
 }
 .max-w-5xl {
   max-width: 64rem;
-}
-.max-w-full {
-  max-width: 100%;
 }
 .max-w-screen-lg {
   max-width: 1024px;
