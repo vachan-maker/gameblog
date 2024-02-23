@@ -26,6 +26,7 @@ The game has 4  various modes to play such as main mode,zombie mode,jump mode,de
 - The third stage is “JUMP”. This level is totally different from other levels . In this level you need to jump from one platform to other and you need to survive from other enemies. 
 - The fourth mode is  “DEFENSE”  which dose not have any levels. This mode is also  different from other modes. In this mode you need to kill  numerous zombies with use of weapons. This mode provides  different environment to play the mode.
 {{<figure src = "game1.jpeg" caption = "Look at the graphics!">}}
+{{<figure src = "menu2.jpeg" caption = "Weapons store">}}
 ## Design and Graphics
 The game has a descent art style and character design. The animations are smooth and compact as per the game size . Various levels shows variety of settings and landscape. Even though it is not that appealing for gamers and some may feel disturbance to the eyes for its saturated color selection. As per our opinion the design and graphics of the game may have a rating of 3.8/5.
 ## Features
