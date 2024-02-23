@@ -1,6 +1,8 @@
 ---
 title: "Zombie Catchers"
 description: "Get ready to kill some zombies"
+thumbnail: "/img/cover.jpeg"
+date: 2024-02-20
 ---
 ## About this game
 
@@ -12,6 +14,8 @@ A.J. and Bud walk through an undead wasteland where even plants can survive.
 
 They make zombies who are hiding in a waste pond, hunt them down, and take them to an underground factory where all zombies are compressed and converted into zombie juice. You can earn coins by selling this zombie juice. The hidden zombies inside the waste pond were called out by putting a human brain near the pond. The zombies come out to eat the brain. At that time, A.J. and Bud try to catch each zombie. They hunt down zombies with a trusty harpoon gun and sneaky traps!
 
+{{<figure src = "zombie2.jpeg" caption = "">}}
+{{<figure src = "zombie3.jpeg">}}
 ## GamePlay
 
 The gameplay mechanisms are intuitive and enjoyable. The game provides comparatively fewer controls and smoother movement for characters. In this game, Bud and A.J. play different roles. While A.J. makes traps and hunts all the zombies down, Bud rides a flying ship that collects all the zombies A.J. has hunted and takes them all to the factory.
@@ -22,6 +26,7 @@ The controls are very simple and have very few of them. The smooth controls make
 
 The weapon can be upgraded with your coins. The game provides different traps to trap the moving zombies, which unlock at different levels. Also, different outfits are available for A.J. as you reach higher levels. The variety of zombies, each with unique behaviors and different levels of juiciness, keeps the challenges fresh and ensures players need to adapt their approach.
 
+{{<figure src = "zombie1.jpeg" caption = "">}}
 ## Design and graphics
 
 One of the game's strengths is its design. The cartoonish art style creates a wonderful atmosphere, which makes the game different from the intense aesthetics of other zombie games. The character designs, especially those of A.J. and Bud, are charming and endearing. The insertion of humorous elements such as quick-witted zombie expressions adds an extra layer of enjoyment to the overall experience.
