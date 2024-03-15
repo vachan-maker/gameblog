@@ -1047,9 +1047,6 @@ a.page-link {
 .right-4 {
   right: 1rem;
 }
-.right-8 {
-  right: 2rem;
-}
 .top-0 {
   top: 0px;
 }
@@ -1112,11 +1109,17 @@ a.page-link {
 .inline-block {
   display: inline-block;
 }
+.inline {
+  display: inline;
+}
 .flex {
   display: flex;
 }
 .grid {
   display: grid;
+}
+.contents {
+  display: contents;
 }
 .hidden {
   display: none;
@@ -1219,6 +1222,10 @@ a.page-link {
 }
 .border-transparent {
   border-color: transparent;
+}
+.bg-blue-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(219 234 254 / var(--tw-bg-opacity));
 }
 .bg-gray-100 {
   --tw-bg-opacity: 1;
