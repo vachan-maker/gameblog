@@ -28,4 +28,4 @@ Graphics while shooting and hitting players are visually stunning. The breaking 
 
 ## Overall
 
-Alto's Odyssey is a smooth and fascinating game that offers players a relaxing and visually stunning experience. While it may become repetitive after long time, its engaging gameplay and beautiful visuals make it a game worth exploring
+Super Hot Mobile offers a compelling and challenging gameplay experience that combines action and time manipulation which set it apart from traditional games. It provides an fascinating and thought-provoking adventure for players looking for a unique gaming experience on mobile devices.
