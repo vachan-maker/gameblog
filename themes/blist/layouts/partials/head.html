@@ -61,7 +61,34 @@
   {{ template "_internal/opengraph.html" . }}
   {{ template "_internal/twitter_cards.html" . }}
   {{ template "_internal/schema.html" . }}
-
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Have You Played It?",
+        "url": "https://hypi.pages.dev",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://hypi.pages.dev/img/logo.png",
+            "width": 1080,
+            "height": 856
+        }
+    },
+    "headline": "{{ .Title }}",
+    "url": "{{ .Permalink }}",
+    "datePublished": "{{ .Date }}",
+    "dateModified": "{{ .Date }}",
+    "image": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}{{ .Params.thumbnail }}",
+        "width": 1200,
+        "height": 799
+    },
+    "description": "{{ .Description }}"
+}
+    </script>
   {{ if gt (len .Site.Languages) 1}}
   <meta name="lang" content="{{ .Site.Language }}" />
   {{ end }}

@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: 2024-03-15
-description: Move through time in this action packed shooter game
+description:
 keywords: ["about-us", "about-hugo", "contact"]
 type: about
 url: /about
