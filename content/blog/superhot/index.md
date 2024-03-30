@@ -9,7 +9,6 @@ thumbnail: "/img/superhot.webp"
  Super Hot Mobile by Hot Dogs is a first-person shooting game in a polygon style. It's an exhilarating VR-inspired mobile first-person shooter game that takes tactical gameplay to a whole next level. This game is rated for 3+ and has almost 500,000+ downloads.
 
 ## About this game
-{{<figure src = "photo4.webp" caption = "Launch screen of the game">}}
 {{<figure src = "photo2.webp" caption = "Game in action">}}
 Superhot mobile is a game in a world where time moves only when you move. This concept creates an intense experience in gameplay and makes the game different from other first-person shooting games. In this puzzle-filled adventure, your mission is to eliminate a wave of enemies with different rifles and weapons. With the ability to control time while you move, you can strategically plan your every move and execute it with precision and you can even dodge bullets.
 
