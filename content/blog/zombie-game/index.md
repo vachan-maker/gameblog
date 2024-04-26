@@ -34,7 +34,7 @@ One of the game's strengths is its design. The cartoonish art style creates a wo
 Moreover, the design extends to the game's interface, which is clean and user-friendly. Navigating through menus and upgrading equipment is straightforward, allowing players to focus on the core gameplay without unnecessary complications. The inclusion of in-game tutorials effectively guides new players, ensuring a smooth onboarding experience.
 
 In terms of graphics, Zombie Catchers delivers a visually appealing presentation. The environments are well-crafted, ranging from urban settings to swamps, providing a diverse backdrop for zombie hunting. The attention to detail in character animations and the various tools used for zombie capture enhance the overall visual experience. The game also runs smoothly, even on devices with moderate hardware, ensuring accessibility for a wide audience.
-
+{{< youtube id="er__gXGkiBA" autoplay="true" >}}
 ## Pros
 
 awesome sound track. The background music always stays in mind.
