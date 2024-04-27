@@ -16,8 +16,8 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-label: "Date"
-  name: "Date"
-  widget: "datetime"
-  default: ""
-  date_format: "DD.MM.YYYY"
+  - label: "Start time"
+    name: "start"
+    widget: "datetime"
+    default: ""
+    date_format: "DD.MM.YYYY" # e.g. 24.12.2021
