@@ -10,6 +10,7 @@ description: '"Stickman the Flash" by StormHit Games is an action-packed online
   and energetic sound design, it lacks variety in environments and upgrades, and
   its repetitive gameplay may deter some players. Overall, "Stickman the Flash"
   is a thrilling and addictive game for fans of action and platformer games.'
+thumbnail: /img/whatsapp-image-2024-05-09-at-00.01.11_3771b9a3.jpg
 ---
 **Introduction**
 
