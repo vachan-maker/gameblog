@@ -2,6 +2,7 @@
 title: Stickman the Flash
 date: 2024-04-27T10:51:00.000Z
 description: 2D action fighter game
+thumbnail: /img/whatsapp-image-2024-05-09-at-00.01.11_3771b9a3.jpg
 ---
 **Introduction**
 
