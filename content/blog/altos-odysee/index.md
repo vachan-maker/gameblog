@@ -1,5 +1,5 @@
 ---
-title: "Alto\'s Odysee"
+title: "Altos Odysee"
 description: "Simple, elegant and minimal game"
 draft: false
 date: 2024-03-03
