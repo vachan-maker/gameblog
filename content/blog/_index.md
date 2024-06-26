@@ -1,6 +1,6 @@
 ---
 title: Stickman the Flash
-date: 04.05.2024
+date: 2024-06-02
 description: '"Stickman the Flash" by StormHit Games is an action-packed online
   game featuring a lightning-fast character called Stickman. With elements of
   platforming and combat, players battle shadow warrior enemies to become a
